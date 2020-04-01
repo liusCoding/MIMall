@@ -27,7 +27,7 @@ export default {
 
        })
 
-       url =  "https://www.imooc.com/activity/servicetime";
+       url =  "/api/activity/servicetime";
        jsonp(url,(err,res)=>{
          let result = res;
          this.data = result;

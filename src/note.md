@@ -23,5 +23,8 @@
 
         安装jsonp：npm i jsonp --save-dev
     3.代理跨域
+        接口代理：通过修改Nginx服务器配置来实现
+        说明：前端修改，后台不动
+        
 
     
